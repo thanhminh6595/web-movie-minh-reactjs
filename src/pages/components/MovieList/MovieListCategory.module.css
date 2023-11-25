@@ -1,0 +1,30 @@
+.listItem--0 {
+  transform: translateX(0%);
+}
+.listItem--1 {
+  transform: translateX(100%);
+}
+.listItem--2 {
+  transform: translateX(200%);
+}
+.listItem--3 {
+  transform: translateX(300%);
+}
+.listItem--4 {
+  transform: translateX(400%);
+}
+.listItem--5 {
+  transform: translateX(500%);
+}
+.listItem--6 {
+  transform: translateX(600%);
+}
+.listItem--7 {
+  transform: translateX(700%);
+}
+.listItem--8 {
+  transform: translateX(800%);
+}
+.listItem--9 {
+  transform: translateX(900%);
+}

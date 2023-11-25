@@ -1,0 +1,15 @@
+.scroll {
+  position: fixed;
+  background-color: #000;
+  opacity: 1;
+  width: 100%;
+  transition: 0.7s ease-in;
+}
+
+.scrollInit {
+  position: fixed;
+  background-color: transparent;
+  opacity: 1;
+  width: 100%;
+  transition: 0.7s ease-out;
+}
